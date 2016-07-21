@@ -1,0 +1,11 @@
+1: For every Sunday at 8:05
+
+0 0 * * 7
+
+
+2: For 12:00AM on the first of every month
+
+0 0 1 * *
+
+3: 
+
